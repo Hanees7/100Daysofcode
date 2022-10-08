@@ -15,7 +15,6 @@ public class Main{
 
     public static void main(String[] args) {
         cpyconstt g=new cpyconstt(2,"hanee");  
-        cpyconstt g1=new cpyconstt(g);
-        
+        cpyconstt g1=new cpyconstt(g);       
     }
 }
