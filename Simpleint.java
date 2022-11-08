@@ -12,6 +12,7 @@ System.out.println("Enter The values of p, r, t");
  r=d.nextInt();
 t=d.nextInt();
  int si=(p*r*t)/100;
+ 
  System.out.println("Answer is:"+si);
 }
 }
