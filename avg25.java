@@ -12,7 +12,7 @@ for(int i=1;i<=n;i++){
     sum=sum+a;
 }
 int result=sum/n;
-System.out.println(result);
+System.out.println("the Avg of 5 Numbers"+result);
 
 
     }
