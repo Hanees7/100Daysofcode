@@ -2,7 +2,7 @@ In this challenge, you are required to calculate and print the sum of the elemen
 
 Function Description
 
-Complete the aVeryBigSum function in the editor below. It must return the sum of all array elements.
+Complete the aVeryBigSum function in  editor below. It must return the sum of all array elements.
 
 aVeryBigSum has the following parameter(s):
 
