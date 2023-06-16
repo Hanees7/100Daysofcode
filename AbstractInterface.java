@@ -6,7 +6,7 @@ public class AbsTractInterfaces {
 }
 
 interface ChessPlay {
-    // fx Blueprint
+    //fx Blueprint
     void moves();
 }
 
