@@ -9,7 +9,6 @@ interface ChessPlay {
     //fx Blueprint
     void moves();
 }
-
 class Queen implements ChessPlay {
     public void moves() {
         System.out.println("up, down, left, right, diagonal");
