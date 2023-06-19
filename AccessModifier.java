@@ -6,7 +6,6 @@ public class AccessModi {
         b1.pas(786);
     }
 }
-
 class Bank {
     String User;
     private int pass;
