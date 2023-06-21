@@ -4,7 +4,6 @@ public class AbsTractInterfaces {
         q1.moves();
     }
 }
-
 interface ChessPlay {
     //fx Blueprint
     void moves();
